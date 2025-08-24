@@ -1,2 +1,2 @@
 # Invoke-Comments
-Gisscus for pwsh.foo
+Giscus for pwsh.foo
